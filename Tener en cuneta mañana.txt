@@ -1,0 +1,2 @@
+1. borrar todos los espacios en blacno al final de los archivos
+

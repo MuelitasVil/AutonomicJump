@@ -1,0 +1,1 @@
+Los archivos originales de genie estan guardados en Disco local C en la carpeta de msys2, Puesto que toca praticamente tener un bash de linux para correr eso

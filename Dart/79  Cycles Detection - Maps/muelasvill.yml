@@ -1,0 +1,25 @@
+type: code
+user-name: muelasvill
+stage: challenges
+complexity: 9.41
+others:
+  in: 6
+  out: 26
+  totals: 32
+score:
+  initial: 44.75
+  final: 54.16
+  progress: 9.41
+global-rank:
+  initial: 11926
+  final: 8659
+  progress: 3267
+national-rank:
+  initial: 566
+  final: 506
+  progress: 40
+total-time: 26.3
+effort: 8.3
+productivity: 1.13
+date: "2023-02-22 20:55:26Z"
+path: muelasvill.dart

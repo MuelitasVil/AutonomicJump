@@ -1,0 +1,25 @@
+type: code
+user-name: muelasvill
+stage: challenges
+complexity: 5.86
+others:
+  in: 25
+  out: 48
+  totals: 73
+score:
+  initial: 3.55
+  final: 9.41
+  progress: 12.96
+global-rank:
+  initial: 52252
+  final: 25912
+  progress: 26340
+national-rank:
+  initial: 2009
+  final: 1025
+  progress: 1075
+total-time: 1.41
+effort: 1
+productivity: 12.96
+date: '2022-12-22 17:27:47'
+path: muelasvill.py

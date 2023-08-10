@@ -1,0 +1,26 @@
+type: code
+user-name: MuelasVill
+stage: challenges
+complexity: 2.5
+others:
+  in: 33
+  out: 55
+  totals: 88
+score:
+  initial: 1
+  final: 3.55
+  progress: 2.55
+global-rank:
+  initial: 105563
+  final: 52252
+  progress: 53311
+national-rank:
+  initial: 2010
+  final: 2009
+  progress: 1
+total-time: 0.30
+effort: 0.16
+productivity: 10.2
+date: '2022-12-22 17:39:47'
+path: MuelasVill.java
+
